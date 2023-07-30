@@ -1,0 +1,10 @@
+D:\ООП\coursework\TourAgency\TourAgency\Debug\TourAgency.vcxproj.AssemblyReference.cache
+D:\ООП\coursework\TourAgency\TourAgency\Debug\TourAgency.Main.resources
+D:\ООП\coursework\TourAgency\TourAgency\Debug\TourAgency.vcxproj.GenerateResource.cache
+D:\ООП\coursework\TourAgency\TourAgency\Debug\TourAgency.About.resources
+D:\ООП\coursework\TourAgency\TourAgency\Debug\TourAgency.EditClient.resources
+D:\ООП\coursework\TourAgency\TourAgency\Debug\TourAgency.EditWorker.resources
+D:\ООП\coursework\TourAgency\TourAgency\Debug\TourAgency.EditHotel.resources
+D:\ООП\coursework\TourAgency\TourAgency\Debug\TourAgency.EditTours.resources
+D:\ООП\coursework\TourAgency\TourAgency\Debug\TourAgency.EditOrders.resources
+D:\ООП\coursework\TourAgency\TourAgency\Debug\TourAgency.EditComebacks.resources
